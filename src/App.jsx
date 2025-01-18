@@ -4,14 +4,21 @@ import Card from './Card';
 import Home from './Home';
 import Skills from './Skills';
 import Experience from './Experiences';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Fade from "react-reveal/Fade"
 import './App.css';
 
 function App() {
+  const [isDarkMode, setIsDarkMode] = useState(false);
+
+  const changeMode = () => {
+    const element = document.body;
+    element.classList.toggle("dark-mode");
+    setIsDarkMode(prevMode => !prevMode); 
+  };
   return (
   <>
     <div>
+      <button className="mode" onClick={changeMode}>{isDarkMode? "☀": "☽"}</button>
       <MenuBar />
       <Card />
       <Fade bottom duration={1000}>

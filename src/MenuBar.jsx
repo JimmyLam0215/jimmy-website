@@ -17,9 +17,6 @@ function MenuBar(){
                 <a className="menu-bar-button">Blog</a>
                 <a className="menu-bar-button">Gallery</a>
             </div>
-            <div style={separator}>
-
-            </div>
         </>
     );
 }

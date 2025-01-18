@@ -3,7 +3,7 @@ function Home(){
     return (
         <>
             <div className="home">            
-                <section>
+                <section className="intro-p">
                     <h3 id="home">About Me:</h3>
                     <p className="intro">
                         Hi there. My name is <strong>LAM Pui Wa</strong>. You can call me <strong>Jimmy</strong>. Welcome to my website. <br />
