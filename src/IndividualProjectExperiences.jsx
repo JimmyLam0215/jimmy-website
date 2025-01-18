@@ -72,7 +72,7 @@ function IndividualProjectExperiences() {
                         <td className="date">Completion Date</td>
                       </tr>
                       <tr>
-                        <td className="info"><a href="the_spending_tracker/the_spending_tracker.html" target="_blank">The Spending Tracker <br/>(Written in JavaScript, HTML & CSS)</a></td>
+                        <td className="info"><a href="https://github.com/JimmyLam0215/The_Spending_Tracker" target="_blank">The Spending Tracker <br/>(Written in JavaScript, HTML & CSS)</a></td>
                         <td className="date">FEB 2024</td>
                       </tr>
                       <tr>
