@@ -53,6 +53,7 @@ body {
 
 .card-title{
     margin: 0;
+    font-size: 1.1rem;
 }
 
 .menu-bar{
@@ -290,7 +291,6 @@ th {
         }
         .card {
             align-items: center;
-            margin-left: 15%;
         }
         .card-image{
             width: 30%;
@@ -330,7 +330,6 @@ th {
         }
         .card {
             align-items: center;
-            margin-left: 15%;
         }
         .card-image{
             width: 30%;
