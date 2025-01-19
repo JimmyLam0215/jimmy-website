@@ -22,9 +22,9 @@ function Experience () {
     return (
         <div className="experiences" id="experiences">
             <h3>Experiences:</h3>
-            <button onClick={() => setActiveComponent('job')} className="menu-bar-button">Job Experiences</button>
-            <button onClick={() => setActiveComponent('individual')} className="menu-bar-button">Individual Project Experiences</button>
-            <button onClick={() => setActiveComponent('group')} className="menu-bar-button">Group Project Experiences</button>
+            <button onClick={() => setActiveComponent('job')} className="exp-button">Job Experiences</button>
+            <button onClick={() => setActiveComponent('individual')} className="exp-button">Individual Project Experiences</button>
+            <button onClick={() => setActiveComponent('group')} className="exp-button">Group Project Experiences</button>
             <div>{renderComponent()}</div>
         </div>
     );

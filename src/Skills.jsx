@@ -3,7 +3,8 @@ function Skills(){
         <>
         <div className="programming-language" id="programming-language">
                 <h3>Skills:</h3>
-                <h3>Programming Languages/Scripting Languages:</h3>
+                <h3>Programming Languages/Scripting Languages:</h3> 
+                
                 <table className="skills">
                     <tr>
                         <td><div class="bar front high" data-skill="Python"></div></td>

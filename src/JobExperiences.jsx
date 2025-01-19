@@ -5,12 +5,12 @@ function JobExperiences () {
             <h3>Internship Experience:</h3>
             <tr>
                 <td className="job"><a href="https://candyservice.net/" target="_blank">💼 Candy Service Limited - Software Engineer</a></td>
-                <td className="job">[Mar 2024 - Aug 2024]</td>
+                <td className="job">[Mar 2024 – Aug 2024]</td>
             </tr>
             <h3>Part-time Experiences:</h3>
             <tr>
                 <td className="job"><a href="https://candyservice.net/" target="_blank">💼 Candy Service Limited - Software Engineer</a></td>
-                <td className="job">[Sep 2024 - Now]</td>
+                <td className="job">[Sep 2024 – Now]</td>
             </tr>
             <tr>
                 <td className="job"><a href="https://www.polyu.edu.hk/" target="_blank">💼 The Hong Kong Polytechnic University - Student Assistant</a></td>
