@@ -43,6 +43,8 @@ body {
 }
 .mode {
     background-color: white;
+    position: relative;
+    z-index: 1000;
 }
 .card-image{
     max-width: 60%;
