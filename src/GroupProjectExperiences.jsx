@@ -10,11 +10,27 @@ function GroupProjectExperiences() {
                 <td className="date">Completion Date</td>
               </tr>
               <tr>
-                <td className="info">COMP4433: Kaggle Competition: House Price Prediction   <br/>(Written in Python, Jupyter Notebook)</td>
+                <td className="info"><a href="https://comp-3421-grp-proj-18.vercel.app/" target="_blank">COMP3421: Interactive Polling and Survey System   <br/>(Written in HTML & CSS, JavaScript, and PHP)</a></td>
+                <td className="date">Apr 2025</td>
+              </tr>
+              <tr>
+                <td className="info">COMP4423: Day Night Image Translation with Pix2Pix and Object Detection with YOLOv11n   <br/>(Written in Python, Jupyter Notebook)</td>
+                <td className="date">May 2025</td>
+              </tr>
+              <tr>
+                <td className="info">COMP4434: Light GCN  <br/>(Written in Python)</td>
+                <td className="date">Apr 2025</td>
+              </tr>
+              <tr>
+                <td className="info">COMP4442: Kaggle Competition: House Price Prediction   <br/>(Written in Python, Jupyter Notebook)</td>
                 <td className="date">Nov 2024</td>
               </tr>
               <tr>
-                <td className="info">COMP4122: The Forgotten Last Experience <br/>(Written C# with Unity)</td>
+                <td className="info"><a href="https://comp4442group18secdrive.us-east-1.elasticbeanstalk.com" target="_blank">COMP4433: Secure Driver Behavior Analysis Website  <br/>(Written in HTML & CSS, JavaScript, Python, and AWS services)</a></td>
+                <td className="date">Nov 2024</td>
+              </tr>
+              <tr>
+                <td className="info"><a href="https://youtu.be/_BpY7L3Yiiw" target="_blank">COMP4122: The Forgotten Last Experience <br/>(Written C# with Unity)</a></td>
                 <td className="date">Nov 2024</td>
               </tr>
               <tr>

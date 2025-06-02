@@ -36,8 +36,8 @@ function IndividualProjectExperiences() {
                       </tr>
                       <tr>
                         
-                        <td className="info"><b>FYP: Web-Based Anti-Cheat Quiz System for Mobile and Desktop <br/>(Written in HTML & CSS, JavaScript React, Python Flask, MySQL)</b></td>
-                        <td className="date"><b>On-going</b></td>
+                        <td className="info"><a href="https://youtu.be/lAUqnZ4GWw0" target="_blank"><b>FYP: Web-Based Anti-Cheat Quiz System for Mobile and Desktop <br/>(Written in HTML & CSS, JavaScript React, Python Flask, MySQL)</b></a></td>
+                        <td className="date"><b>Apr 2025</b></td>
                       </tr>
                       <tr>
                         <td className="info">COMP4433: Kaggle Dataset: Heart Attack Analysis and Prediction Dataset <br/>(Written in Python, Jupyter Notebook)</td>
@@ -70,6 +70,14 @@ function IndividualProjectExperiences() {
                       <tr>
                         <td className="info">Project Information</td>
                         <td className="date">Completion Date</td>
+                      </tr>
+                      <tr>
+                        <td className="info"><a href="https://shopping-website-pink-nine.vercel.app/" target="_blank">The Online Shopping Website <br/>(Written in JavaScript (React), HTML & CSS)</a></td>
+                        <td className="date">On Going</td>
+                      </tr>
+                      <tr>
+                        <td className="info"><a href="https://jimmylam0215.github.io/mahjong-calculator/" target="_blank">Mahjong-calculator<br/>(Written in JavaScript (React), HTML & CSS)</a></td>
+                        <td className="date">FEB 2025</td>
                       </tr>
                       <tr>
                         <td className="info"><a href="https://github.com/JimmyLam0215/The_Spending_Tracker" target="_blank">The Spending Tracker <br/>(Written in JavaScript, HTML & CSS)</a></td>

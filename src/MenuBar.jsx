@@ -14,8 +14,8 @@ function MenuBar(){
                 <a className="menu-bar-button" href='#home'>Home</a>
                 <a className="menu-bar-button" href='#programming-language'>Skills</a>
                 <a className="menu-bar-button" href='#experiences'>Experiences</a>
-                <a className="menu-bar-button">Blog</a>
-                <a className="menu-bar-button">Gallery</a>
+                <a className="menu-bar-button"></a>
+                <a className="menu-bar-button"></a>
             </div>
         </>
     );
