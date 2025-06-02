@@ -9,7 +9,7 @@ function Home(){
                         Hi there. My name is <strong>LAM Pui Wa</strong>. You can call me <strong>Jimmy</strong>. Welcome to my website. <br />
                     </p>
                     <p className="intro"> 
-                        I am currently a year 4 student majoring in Computing from the <a href="https://www.polyu.edu.hk/en/comp/" target="_blank">Hong Kong Polytechnic University</a>. <br /> 
+                        I am a graduate majoring in Computing from the <a href="https://www.polyu.edu.hk/en/comp/" target="_blank">Hong Kong Polytechnic University</a>. <br /> 
                     </p>
                     <p className="intro">   
                         This website will show some basic information about me!
