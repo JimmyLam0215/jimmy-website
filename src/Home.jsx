@@ -57,6 +57,30 @@ function Home(){
                 </div>
                 <div className="divider"></div>
                 </section>
+                <section className="qualifications">
+                <h3>Qualifications:</h3>
+                <table>
+                    <h3>Acadmeic:</h3>
+                    <tr>
+                        <td className="job">📜  Dean's Honor List 2024-2025</td>
+                        <td className="job">[Jun 2025]</td>
+                    </tr>
+                    <tr>
+                        <td className="job">📜 InfoTech Job Market Driven Scholarship Winner</td>
+                        <td className="job">[Jun 2025]</td>
+                    </tr>
+                    <h3>Microsoft Certificates:</h3>
+                    <tr>
+                        <td className="job">📜  PL-900: Microsoft Power Platform Fundamentals</td>
+                        <td className="job">[Dec 2025]</td>
+                    </tr>
+                    <tr>
+                        <td className="job">📜  MB-500: Microsoft D365: Finance and Operations Apps Developer</td>
+                        <td className="job">[Apr 2026]</td>
+                    </tr>
+                </table>
+                <div className="divider"></div>
+                </section>
             </div>
             
         </>
