@@ -72,6 +72,10 @@ function IndividualProjectExperiences() {
                         <td className="date">Completion Date</td>
                       </tr>
                       <tr>
+                        <td className="info"><a href="./lanternAnswer.html" target="_blank">The Lantern Answer Page<br/>(Written in JavaScript, HTML & CSS)</a></td>
+                        <td className="date">Sep 2026</td>
+                      </tr>
+                      <tr>
                         <td className="info"><a href="./lantern.html" target="_blank">The Lantern <br/>(Written in JavaScript, HTML & CSS)</a></td>
                         <td className="date">Sep 2026</td>
                       </tr>
