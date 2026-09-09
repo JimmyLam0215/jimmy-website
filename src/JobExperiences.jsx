@@ -4,6 +4,10 @@ function JobExperiences () {
         <table>
             <h3>Full-time Experience:</h3>
             <tr>
+                <td className="job"><a href="https://www.9dots-enea.com/" target="_blank">💼 9 Dots Consulting ENEA - Junior Functional Consultant</a></td>
+                <td className="job">[Aug 2026 - Now]</td>
+            </tr>
+            <tr>
                 <td className="job"><a href="https://moxify.hk/" target="_blank">💼 Moxify Limited - Solution Consultant</a></td>
                 <td className="job">[July 2025 - Apr 2026]</td>
             </tr>

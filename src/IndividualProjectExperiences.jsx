@@ -72,8 +72,8 @@ function IndividualProjectExperiences() {
                         <td className="date">Completion Date</td>
                       </tr>
                       <tr>
-                        <td className="info"><a href="https://shopping-website-pink-nine.vercel.app/" target="_blank">The Online Shopping Website <br/>(Written in JavaScript (React), HTML & CSS)</a></td>
-                        <td className="date">On Going</td>
+                        <td className="info"><a href="jimmy-website/lantern.html" target="_blank">The Lantern <br/>(Written in JavaScript, HTML & CSS)</a></td>
+                        <td className="date">Sep 2026</td>
                       </tr>
                       <tr>
                         <td className="info"><a href="https://jimmylam0215.github.io/mahjong-calculator/" target="_blank">Mahjong-calculator<br/>(Written in JavaScript (React), HTML & CSS)</a></td>
